@@ -198,6 +198,10 @@ footer li a {
     padding: 6px 0;
   }
 
+  .logo{
+    margin: 10px auto 0;
+  }
+
   .logo img {
     width: 73px;
   }
