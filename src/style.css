@@ -132,7 +132,7 @@ footer li a {
 
   header{
     margin: 0;
-    padding: 5px;
+    padding: 40px;
   }
 
   h1{
@@ -149,12 +149,12 @@ footer li a {
   }
 
   h4{
-    font-size: 12px;
+    font-size: 13px;
     padding-bottom: 4px;
   }
 
   p{
-    font-size: 12px;
+    font-size: 14px;
     line-height: 19px;
     text-align: center;
   }
@@ -183,6 +183,14 @@ footer li a {
   footer{
     margin: 0;
     padding: 20px;
+  }
+
+  footer li .logos{
+    width: 15px
+  }
+
+  footer li a{
+    font-size: 12px;
   }
 
   .footer-content {
